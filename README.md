@@ -14,17 +14,7 @@ Welcome to the Compiler Design Lab Codes repository! This collection of code sni
 
 - **Programming Languages:** The codes are implemented in popular programming languages such as C, C++, or Java, allowing you to choose the language that best aligns with your coursework or project requirements.
 
-## Getting Started:
 
-1. Clone the repository to your local machine:
-   
-   git clone https://github.com/your-username/compiler-design-lab-codes.git
-
-3. Navigate to the specific lab or topic you're interested in.
-
-4. Explore the code, read through the comments, and experiment with modifications to deepen your understanding.
-
-5. Use the codes as a reference for your own compiler design projects or lab assignments.
 
 ## Contributions:
 
